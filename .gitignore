@@ -1,8 +1,12 @@
 *
 
-!./core/
-!./android/
-!./desktop/
-!./html/
+!/core/
+!core/*
+!/android/
+!android/*
+!/desktop/
+!desktop/*
+!/html/
+!html/*
 !.gitignore
 
